@@ -9,5 +9,5 @@
         - python manage.py runserver : roda a aplicação local
         - pip install -r requirements.txt : instala os pacotes necessarios da aplicação registrados
         - python manage.py createsuperuser : cria um usuario administrador
-        - python manage.py makemigrations : Gera os models previamentes criados no seu banco de dados
+        - python manage.py migrate : Gera os models previamentes criados no seu banco de dados
  
